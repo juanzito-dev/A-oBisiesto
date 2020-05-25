@@ -5,9 +5,9 @@
     End Sub
 
     Private Sub Form2_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        Dim a As String
-        a = Module1.nombre
-        Label3.Text = "¡BIENVENIDO " & a + "!"
+        Dim Nombre As String
+        Nombre = Module1.nombre
+        Label3.Text = "¡BIENVENIDO " & Nombre + "!"
     End Sub
 
     Private Sub TextBox1_TextChanged(sender As Object, e As EventArgs)
@@ -18,14 +18,14 @@
         Dim f3 As New Form3
         Module1.año = Año.Text
 
-        Dim a, b As String
+        Dim vacio, añoin As String
 
-        b = Año.Text
-        a = ""
-        If b <> a Then
+        añoin = Año.Text
+        vacio = ""
+        If añoin <> vacio Then
             f3.Show()
             Me.Hide()
-        ElseIf Año.Text = a Then
+        ElseIf Año.Text = vacio Then
             MsgBox("Ingrese un Año")
 
         End If

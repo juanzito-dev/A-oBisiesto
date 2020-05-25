@@ -2,18 +2,18 @@
 
     Private Sub Form3_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
-        Dim a, b As String
-        a = Module1.nombre
-        b = Module1.año
-        Label1.Text = "¡BIENVENIDO " & a + "!"
-        TextBox2.Text = b
+        Dim nombrein, añoin As String
+        nombrein = Module1.nombre
+        añoin = Module1.año
+        Label1.Text = "¡BIENVENIDO " & nombrein + "!"
+        TextBox2.Text = añoin
 
-        If b Mod 4 = 0 And b Mod 100 <> 0 Or b Mod 400 = 0 Then
+        If añoin Mod 4 = 0 And añoin Mod 100 <> 0 Or añoin Mod 400 = 0 Then
             Label6.ForeColor = Color.Green
-            Label6.Text = "¡El año " & b + " es bisiesto!"
+            Label6.Text = "¡El año " & añoin + " es bisiesto!"
         Else
             Label6.ForeColor = Color.Red
-            Label6.Text = "¡El año " & b + " no es bisiesto!"
+            Label6.Text = "¡El año " & añoin + " no es bisiesto!"
         End If
 
     End Sub

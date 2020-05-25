@@ -4,14 +4,14 @@
         Dim f2 As New Form2
         Module1.nombre = TextBox1.Text
 
-        Dim a, b As String
+        Dim vacio, nombre As String
 
-        b = TextBox1.Text
-        a = ""
-        If b <> a Then
+        nombre = TextBox1.Text
+        vacio = ""
+        If nombre <> vacio Then
             f2.Show()
             Me.Hide()
-        ElseIf TextBox1.Text = a Then
+        ElseIf TextBox1.Text = vacio Then
             MsgBox("Ingrese un nombre")
 
         End If
