@@ -1,0 +1,25 @@
+C:\Users\nidde\Desktop\bapp\A-oBisiesto\WindowsApplication1\bin\Debug\AñoBisiesto.exe
+C:\Users\nidde\Desktop\bapp\A-oBisiesto\WindowsApplication1\bin\Debug\AñoBisiesto.pdb
+C:\Users\nidde\Desktop\bapp\A-oBisiesto\WindowsApplication1\bin\Debug\AñoBisiesto.xml
+C:\Users\nidde\Desktop\bapp\A-oBisiesto\WindowsApplication1\obj\Debug\AñoBisiesto.Form1.resources
+C:\Users\nidde\Desktop\bapp\A-oBisiesto\WindowsApplication1\obj\Debug\AñoBisiesto.Form2.resources
+C:\Users\nidde\Desktop\bapp\A-oBisiesto\WindowsApplication1\obj\Debug\AñoBisiesto.Form3.resources
+C:\Users\nidde\Desktop\bapp\A-oBisiesto\WindowsApplication1\obj\Debug\AñoBisiesto.Resources.resources
+C:\Users\nidde\Desktop\bapp\A-oBisiesto\WindowsApplication1\obj\Debug\Año bisiesto.vbproj.GenerateResource.cache
+C:\Users\nidde\Desktop\bapp\A-oBisiesto\WindowsApplication1\obj\Debug\Año bisiesto.vbproj.CoreCompileInputs.cache
+C:\Users\nidde\Desktop\bapp\A-oBisiesto\WindowsApplication1\obj\Debug\AñoBisiesto.exe
+C:\Users\nidde\Desktop\bapp\A-oBisiesto\WindowsApplication1\obj\Debug\AñoBisiesto.xml
+C:\Users\nidde\Desktop\bapp\A-oBisiesto\WindowsApplication1\obj\Debug\AñoBisiesto.pdb
+C:\Users\nidde\Desktop\bapp\A-oBisiesto\Año bisiesto\bin\Debug\AñoBisiesto.exe
+C:\Users\nidde\Desktop\bapp\A-oBisiesto\Año bisiesto\bin\Debug\AñoBisiesto.pdb
+C:\Users\nidde\Desktop\bapp\A-oBisiesto\Año bisiesto\bin\Debug\AñoBisiesto.xml
+C:\Users\nidde\Desktop\bapp\A-oBisiesto\Año bisiesto\obj\Debug\Año bisiesto.vbprojAssemblyReference.cache
+C:\Users\nidde\Desktop\bapp\A-oBisiesto\Año bisiesto\obj\Debug\AñoBisiesto.Form1.resources
+C:\Users\nidde\Desktop\bapp\A-oBisiesto\Año bisiesto\obj\Debug\AñoBisiesto.Form2.resources
+C:\Users\nidde\Desktop\bapp\A-oBisiesto\Año bisiesto\obj\Debug\AñoBisiesto.Form3.resources
+C:\Users\nidde\Desktop\bapp\A-oBisiesto\Año bisiesto\obj\Debug\AñoBisiesto.Resources.resources
+C:\Users\nidde\Desktop\bapp\A-oBisiesto\Año bisiesto\obj\Debug\Año bisiesto.vbproj.GenerateResource.cache
+C:\Users\nidde\Desktop\bapp\A-oBisiesto\Año bisiesto\obj\Debug\Año bisiesto.vbproj.CoreCompileInputs.cache
+C:\Users\nidde\Desktop\bapp\A-oBisiesto\Año bisiesto\obj\Debug\AñoBisiesto.exe
+C:\Users\nidde\Desktop\bapp\A-oBisiesto\Año bisiesto\obj\Debug\AñoBisiesto.xml
+C:\Users\nidde\Desktop\bapp\A-oBisiesto\Año bisiesto\obj\Debug\AñoBisiesto.pdb
